@@ -1,8 +1,6 @@
 # Discover Python with Callysto
 
-** IN DEVELOPMENT - NOT READY FOR USE **
-
-Direct your students to this page for a simple set of instructions to follow to get started: <https://www.discovercoding.ca/hoc>
+Direct your students to this page for a simple set of instructions to follow to get started: <https://www.discovercoding.ca/dpwc>
 
 This proposed program is inspired from our “Python Discoverers” program, combined with our volunteer work for the “Hour of Code” movement. Through a series of hour-long, guided, introductory lessons, we will use Callysto and Jupyter Notebooks to teach computational thinking through the focused and isolated introduction of Python. Kids will have an enhanced learning experience that is focused on the code and projects provided, without the overhead and distraction of “traditional” programming environments.
 
